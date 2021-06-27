@@ -1,0 +1,16 @@
+insert into Media values(1,'https://www.weightwatchers.com/us/shop/assets-proxy/weight-watchers/image/upload/q_auto/v1/prod/en-us-ec/static-asset/US_Built_Tumbler_52013-0266.jpg?auto=webp','WW by Built 30 oz Tumbler',1);
+insert into Media values(2,'https://www.weightwatchers.com/us/shop/assets-proxy/weight-watchers/image/upload/q_auto/v1/prod/en-us-ec/static-asset/1200x1200-air-fryer-6.jpg?auto=webp','Air Fryer - Grey',12);
+insert into Media values(3,'https://www.weightwatchers.com/us/shop/assets-proxy/weight-watchers/image/upload/q_auto/v1/prod/en-us-ec/static-asset/Meal-Planner-1200x1200-82629.jpg?auto=webp','Meal Planner',2);
+insert into Media values(4,'https://www.weightwatchers.com/us/shop/assets-proxy/weight-watchers/image/upload/q_auto/v1/prod/en-us-ec/static-asset/5061017_cb_myww_programcookbook_cover_rev_1200.jpg?auto=webp','The myWW Program Cookbook',3);
+insert into Media values(5,'https://www.weightwatchers.com/us/shop/assets-proxy/weight-watchers/image/upload/q_auto/v1/prod/en-us-ec/static-asset/US_ReusableProduceBags-52031-157.jpg?auto=webp','WW Reusable Produce Bags',4);
+insert into Media values(6,'https://www.weightwatchers.com/us/shop/assets-proxy/weight-watchers/image/upload/q_auto/v1/prod/en-us-ec/static-asset/WW_Grey-Amber-1RT.jpg?auto=webp','SpaRoom Essential Oils Sleep Set',5);
+insert into Media values(7,'https://www.weightwatchers.com/us/shop/assets-proxy/weight-watchers/image/upload/q_auto/v1/prod/en-us-ec/static-asset/US_ReusableStrawAndBottleCleanerSet_52027_0060_RET_1200_F.jpg?auto=webp','Bottle and Straw Cleaner Set',6);
+insert into Media values(8,'https://www.weightwatchers.com/us/shop/assets-proxy/weight-watchers/image/upload/q_auto/v1/prod/en-us-ec/static-asset/1200x1200-muffin-cup-4_v2.jpg?auto=webp','2-in-1 Muffin and Mini Cake Cups',13);
+insert into Media values(9,'https://www.weightwatchers.com/us/shop/assets-proxy/weight-watchers/image/upload/q_auto/v1/prod/en-us-ec/static-asset/US_Built_3-CompartmentContainer_52021-0269.jpg?auto=webp','WW by Built 3 Compartment Container',7);
+insert into Media values(10,'https://www.weightwatchers.com/us/shop/assets-proxy/weight-watchers/image/upload/q_auto/v1/prod/en-us-ec/static-asset/6023002_mini_pbpie_box_f_1200.jpg?auto=webp','Chocolate Peanut Butter Pie Mini Bar',14);
+insert into Media values(11,'https://www.weightwatchers.com/us/shop/assets-proxy/weight-watchers/image/upload/q_auto/v1/prod/en-us-ec/static-asset/mini_swtslty_box_f_1200.jpg?auto=webp','Sweet and Salty Nut Mini Bar',8);
+insert into Media values(12,'https://www.weightwatchers.com/us/shop/assets-proxy/weight-watchers/image/upload/q_auto/v1/prod/en-us-ec/static-asset/US_CheddarCheeseProteinPuff_15023_Front-90512.jpg?auto=webp','Cheddar Cheese Protein Puffs',9);
+insert into Media values(13,'https://www.weightwatchers.com/us/shop/assets-proxy/weight-watchers/image/upload/q_auto/v1/prod/en-us-ec/static-asset/6015015_cs_NachoTortillaChips_box_f_1200.jpg?auto=webp','Nacho Tortilla Chips',10);
+insert into Media values(14,'https://www.weightwatchers.com/us/shop/assets-proxy/weight-watchers/image/upload/q_auto/v1/prod/en-us-ec/static-asset/6023017_TripleDeckerChoc_Box_f.jpg?auto=webp','Triple Decker Mini Bar',11);
+
+ 	
